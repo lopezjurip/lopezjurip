@@ -1,6 +1,6 @@
 {
   "name": "lopezjurip",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Personal npm card for Patricio Lopez Juri (@lopezjurip)",
   "main": "dist/card.js",
   "unpkg": "index.html",
